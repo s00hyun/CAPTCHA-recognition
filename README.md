@@ -52,6 +52,7 @@ Term project of CT5302 Deep Learning (GIST)
 * Model
   * ResNet-18
     * Set input channel of model.conv1 as 1 (grayscale) and out_features of model.fc as 19
+    * Load pretrained parameters [(Download)](https://drive.google.com/file/d/1hQ1mXBphoKtvsJSmU1vlvYrmoiDb72tM/view?usp=sharing)
     * Training accuracy: 100%
     * Test accuracy: 85.88%
       * See the confusion matrix below.
