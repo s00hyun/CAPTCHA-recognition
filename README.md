@@ -28,7 +28,7 @@ Term project of CT5302 Deep Learning (GIST)
     
   3. Split into characters by fixed coordinates
   
-      <center><img src="figure/preprocess_2.png"  width="50%"></center>
+      <center><img src="figure/preprocess_3.png"  width="50%"></center>
     
   4. Reclassify some misclassified characters in Train Dataset by hand
       * 'm' and 'w' can occupy the width for two characters so some characters were missed or misclassified.
